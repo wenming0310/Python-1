@@ -1,5 +1,6 @@
 #Author: OMKAR PATHAK
 #This script helps to build a simple stopwatch application using Python's time module.
+#在windows的pycharm中运行时发现不能捕获Ctrl + C 的按键中断，在命令行中可以
 
 import time
 
